@@ -16,8 +16,6 @@ The game is accessible across platforms, including:
 
 Whether you're looking for a quick distraction or hours of entertainment, Monkey Mart is the perfect choice.
 
----
-
 ## **Gameplay Mechanics**
 
 At its core, Monkey Mart is all about balancing resource management with customer satisfaction. Here's a breakdown of the main gameplay features:
@@ -34,14 +32,10 @@ As you progress, more advanced crops and products become available, such as:
 
 Farming in Monkey Mart is stress-free. Crops regrow automatically after harvesting, meaning you can focus on expanding your operations instead of replanting.
 
----
-
 ### **2. Stocking Shelves and Serving Customers**
 Once you've harvested your crops, the next step is to stock them on shelves. Customers arrive in waves, browsing through your store and picking up items they need. Your job is to ensure the shelves remain stocked and that customers leave satisfied.
 
 Each item contributes to your earnings, which can be reinvested in improving your store. Efficiently serving customers increases your revenue, allowing you to grow your business faster.
-
----
 
 ### **3. Expanding and Upgrading**
 As your profits grow, you'll unlock the ability to expand your store. New stations and sections can be added, including:
@@ -57,8 +51,6 @@ You can also upgrade your existing equipment to make processes faster and more e
 
 Expansion isn't just about adding more space; it's about optimizing your store to serve more customers while reducing your workload.
 
----
-
 ### **4. Recruiting Helpers**
 Managing a bustling supermarket alone can be overwhelming. That's where helpers come in! As you progress, you can recruit additional monkeys to assist with tasks like:
 - Harvesting crops
@@ -68,8 +60,6 @@ Managing a bustling supermarket alone can be overwhelming. That's where helpers 
 
 These helpers work automatically, freeing you up to focus on strategic decisions like which upgrades to prioritize. Investing in skilled assistants is key to scaling your business.
 
----
-
 ### **5. Keeping Customers Happy**
 Customer satisfaction is a central aspect of Monkey Mart. Happy customers not only spend more money but also attract new visitors to your store. To keep them happy:
 - Ensure shelves are always stocked
@@ -77,8 +67,6 @@ Customer satisfaction is a central aspect of Monkey Mart. Happy customers not on
 - Add new product options as you expand
 
 Happy customers = higher profits!
-
----
 
 ## **What Makes Monkey Mart Unique?**
 
@@ -95,8 +83,6 @@ Despite its simplicity, the game offers surprising depth. From deciding which up
 
 ### **4. Accessibility**
 The game is free-to-play and runs smoothly on most devices. Its intuitive controls and straightforward mechanics make it easy for anyone to pick up and enjoy.
-
----
 
 ## **Tips and Tricks for Success**
 
@@ -122,8 +108,6 @@ Pay attention to which items are selling quickly and adjust your stock according
 ### **5. Keep the Store Clean**
 Spills and messes can deter customers. Make sure your store stays clean to maintain a positive atmosphere.
 
----
-
 ## **Why You Should Play Monkey Mart**
 
 Monkey Mart isn’t just a game; it’s an experience. Whether you’re a casual gamer or someone who loves resource management challenges, this game offers something for everyone. Its combination of adorable visuals, relaxing gameplay, and strategic depth makes it a standout title in the idle management genre.
@@ -132,8 +116,6 @@ Key reasons to play:
 - **Accessible**: Free-to-play and easy to learn.
 - **Addictive**: A perfect blend of strategy and relaxation.
 - **Charming**: Adorable characters and delightful animations.
-
----
 
 ## **Conclusion**
 
