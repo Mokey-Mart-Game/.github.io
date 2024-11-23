@@ -21,8 +21,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
----
----
-git add assets/css/style.scss
-git commit -m "Hide footer and project link using CSS"
-git push
+
+/* Hide "View the Project on GitHub" and "This project is maintained by" */
+.github-repo {
+  display: none;
+}
+
+.footer {
+  display: none;
+}
