@@ -13,17 +13,3 @@ plugins:
 markdown: kramdown 
 sass:
   style: compressed
-
----
----
-
-/* Ẩn mục "View the Project on GitHub" */
-.github-repo { 
-  display: none; 
-}
-
-/* Ẩn mục "This project is maintained by..." */
-.footer {
-  display: none;
-}
-
