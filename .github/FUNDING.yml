@@ -1,0 +1,35 @@
+# Supported Funding Model Platforms
+
+github: 
+  - username1
+  - username2
+  - username3
+  - username4
+
+patreon: username
+
+open_collective: collective_name
+
+ko_fi: username
+
+tidelift: platform-name/package-name # e.g., npm/babel
+
+community_bridge: project-name # e.g., cloud-foundry
+
+liberapay: username
+
+issuehunt: username
+
+lfx_crowdfunding: project-name # e.g., cloud-foundry
+
+polar: username
+
+buy_me_a_coffee: username
+
+thanks_dev: username
+
+custom:
+  - https://apkitech.com/monkey-mart/
+  - https://apkitech.com/
+  - https://apkitech.com/category/games/
+  - https://apkitech.com/category/apps/
